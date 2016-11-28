@@ -54,7 +54,7 @@ main()
 """ 
 OUTPUT :
 
-C:\Personal\Mtech\1st\I\IR\Jaccard_Similarity_Coefficient>python  Jaccard_coef.py
+python  Jaccard_coef.py
 Intersection of Document :2
 Union of Doc :5
 Jaccard similarity coefficient = 0.4
